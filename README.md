@@ -63,6 +63,19 @@ You’ll see generation logs in the console and a Gantt chart on completion.
 
 ---
 
+## 🖼️ Worked Example
+
+Below is a **minimal two‑job instance** you can paste straight into the prompt. ![Example Gantt Chart](/mnt/data/fff0bd4f-390e-44ac-9157-4418d3d7ea4c.png)
+
+```text
+Job_1: M1[10] -> M2[5] -> M3[12]
+Job_2: M2[7]  -> M3[15] -> M1[8]
+```
+
+---
+
+---
+
 ## 🔧 Configuration
 
 Edit the constants at the top of *main.py*:
