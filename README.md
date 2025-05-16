@@ -73,6 +73,7 @@ Job_2: M2[7]  -> M3[15] -> M1[8]
 ```
 
 ---
+![Example Gantt Chart](Screenshot%202025-05-16%20110420.png)
 
 ---
 
